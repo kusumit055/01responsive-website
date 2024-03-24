@@ -1,0 +1,24 @@
+.orange {
+  background-color: orange;
+}
+.logo {
+  font-size: 22px;
+  font-weight: bold;
+  color: black;
+}
+li {
+  list-style: none;
+  font-size: 20px;
+}
+li a {
+  text-decoration: none;
+  border: none;
+}
+@media (max-width: 699px) and (min-width: 220px) {
+  .logo {
+    font-size: 20px;
+  }
+  li {
+    font-size: 17px;
+  }
+}

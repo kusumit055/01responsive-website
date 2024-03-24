@@ -1,0 +1,12 @@
+.container1 {
+  background-color: burlywood;
+  overflow: hidden;
+}
+.w-100,
+.uper {
+  transition: all 0.5s ease;
+}
+.w-100:hover,
+.uper:hover {
+  transform: translateY(-10px);
+}

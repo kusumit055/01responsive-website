@@ -1,0 +1,46 @@
+.d-flex {
+  align-items: center;
+}
+.web-skil {
+}
+.skill-length {
+  width: 40%;
+  height: 3px;
+  border-radius: 5px;
+  background-color: white;
+  border: 1px solid black;
+}
+.skill-in {
+  width: 90%;
+  background-color: blueviolet;
+  height: 100%;
+}
+.HTml {
+  width: 30%;
+}
+.css-in {
+  width: 70%;
+  background-color: rgb(1, 169, 207);
+  height: 100%;
+}
+.javascript-in {
+  width: 50%;
+  background-color: rgb(208, 15, 163);
+  height: 100%;
+}
+.btn-primary {
+  transition: all 0.5s ease;
+}
+.btn-primary:hover {
+  background-color: crimson;
+}
+.card1 {
+  box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);
+  height: 400px;
+}
+.card1 {
+  /* background-color: rgba(0, 0, 0, 0.19); */
+}
+.py-5 {
+  background-color: cornflowerblue;
+}

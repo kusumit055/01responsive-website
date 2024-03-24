@@ -1,0 +1,18 @@
+.header {
+  background-image: url("image2.jpeg");
+  background-repeat: no-repeat;
+  background-position: center;
+  background-size: cover;
+}
+.w-70 {
+  /* border: 1px solid blue; */
+  border-bottom: 12px;
+  color: red;
+  box-shadow: 10px 10px lightblue;
+}
+.btn-success {
+  transition: all 0.5s ease;
+}
+.btn-success:hover {
+  background-color: rgb(123, 5, 134);
+}
